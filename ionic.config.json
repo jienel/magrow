@@ -1,0 +1,7 @@
+{
+  "name": "magrow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
